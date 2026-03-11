@@ -1,7 +1,7 @@
 # Generate-Revenue-to-Support-Further-Development
 
 所有流程与行为都在[mailtopia](https://github.com/ReadClaw/MAILTOPIA)里面运行，既是对开发的测试，又是在地球把共识系统运行起来。
-透明，公平，平权
+是一个开源、透明，公平，平权
 
 开发一套星球级的操作系统
 
